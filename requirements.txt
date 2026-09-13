@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-pdfplumber
-PyMuPDF
-pydantic
-pydantic-settings
-python-dateutil
-scipy
