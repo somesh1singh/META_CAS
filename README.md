@@ -1,1 +1,0 @@
-Fixes 0 chars - tries fitz+pypdf2+pdfplumber with lower/upper PAN
