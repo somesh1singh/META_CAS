@@ -1,0 +1,18 @@
+# Frozen for Python 3.14 - all have cp314 wheels - fixes cooking + Pillow zlib error
+streamlit==1.50.0
+pandas==2.3.2
+numpy==2.2.6
+Pillow==11.3.0
+pdfplumber==0.11.7
+PyMuPDF==1.26.3
+PyPDF2==3.0.1
+pikepdf==9.8.0
+pydantic==2.11.7
+pydantic-settings==2.10.1
+python-dateutil==2.9.0.post0
+scipy==1.16.0
+pdfminer.six==20250506
+cryptography==44.0.3
+lxml==6.0.1
+plotly==6.3.0
+requests==2.32.4
