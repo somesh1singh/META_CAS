@@ -1,1 +1,0 @@
-Ultra instant - fixes 47 min cooking
