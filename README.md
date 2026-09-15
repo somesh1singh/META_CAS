@@ -1,1 +1,0 @@
-# Fixed requirements - no pikepdf, 51 packages, resolves in 625ms\n- Fixes qpdf/Constants.h build error\n- Fixes pandas tar.gz build\n
